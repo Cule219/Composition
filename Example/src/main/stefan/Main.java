@@ -1,6 +1,6 @@
 package main.stefan;
 
-public class Demo {
+public class Main {
 	
 	/**
 	 * @param args
