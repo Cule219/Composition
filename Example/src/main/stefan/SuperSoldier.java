@@ -9,3 +9,4 @@ public class SuperSoldier extends Enemy {
 		super.takeDamage(damage/2);
 	}
 }
+	
